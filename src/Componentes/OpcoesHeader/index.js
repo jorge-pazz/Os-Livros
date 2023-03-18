@@ -1,4 +1,3 @@
-import Style from './OpcoesHeader.module.css';
 
 export default function OpcoesHeader(){
 
